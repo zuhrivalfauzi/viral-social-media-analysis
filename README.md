@@ -1,6 +1,6 @@
 # PostgreSQL-Portofolio
 
-Welcome to my Data Engineer Portfolio! I am a data engineer with experience in building, managing, and optimizing data infrastructure. I am proficient in various technologies such as Python, SQL (PostgreSQL), BigQuery, Apache Spark, Airflow, and visualization tools like Power BI and Looker Studio.
+Welcome to my Data Engineering Portfolio! This repository showcases my hands-on SQL and PostgreSQL projects completed through self-learning and portfolio development. The projects demonstrate my understanding of database design, data cleaning, data transformation, and analytical SQL using real-world datasets.
 
 This repository showcases my skills and projects that I have worked on during my studies and professional experience using PostgreSQL.
 
